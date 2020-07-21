@@ -1,4 +1,7 @@
+# python操作mysql之只看这篇就够了
+
 ## 初始化准备
+
 安装pymysql 包
 ```bash
 sudo pip3 install PyMysql 
